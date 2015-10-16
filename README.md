@@ -1,2 +1,2 @@
 # PythonProjects
-Python projects that are a bit larger in scope
+A Python text version of Tic Tac Toe.
